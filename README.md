@@ -1,7 +1,6 @@
-# Karma DDoS for Google Colab
 <div align=center>
  
-# KARMA DDoS
+# Karma DDoS for Google Colab
  <p>
  <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
