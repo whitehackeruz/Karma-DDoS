@@ -1,6 +1,6 @@
 <div align=center>
  
-# Karma DDoS for Google Colab
+# Karma DDoS but better
 
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
  Don't attack any websites you don't own it<br/>
