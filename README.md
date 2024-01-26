@@ -52,10 +52,6 @@
  - Geoip   | Geo IP Address Lookup
  - Subnet  | Subnet IP Address Lookup
 ```
-
-## Videos
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
-
 ## Usage on Linux
 ```sh
 You must use Python 3.9 or higher
